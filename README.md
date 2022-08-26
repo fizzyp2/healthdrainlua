@@ -51,3 +51,7 @@ this is self explanatory
 but if you arent code smort
 
 it ends the line.
+
+(here is an example of the script in action)
+https://user-images.githubusercontent.com/108989676/186911103-e0dff46f-a7ee-44d4-bd95-70bd8ce9f668.mp4
+
